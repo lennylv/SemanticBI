@@ -1,0 +1,10 @@
+batchsize: 2000
+LR_patience: 2
+ES_patience: 5
+cnn_dense: 80
+kernel_size: 9
+rnn_dense: 200
+mlp1_dense: 400
+mlp2_dense: 220
+dropout_1: 0.25
+dropout_2: 0.25
