@@ -21,7 +21,7 @@ The source code of paper 'SemanticBI: quantifying intensities of transcription f
 3. New floder *SemanticBI/datasets/ChIP-seq_83/preprocessed_train/*.
 4. Run ChIP-seq_83 experiment:
     ```
-        python ChIPseq83_train.py`
+        python ChIPseq83_train.py
     ```
 
 ## Sharpr-MPRA experiment:
