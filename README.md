@@ -23,11 +23,3 @@ The source code of paper 'SemanticBI: quantifying intensities of transcription f
     ```
         python ChIPseq83_train.py
     ```
-
-## Sharpr-MPRA experiment
-1. Download data from [here](http://mitra.stanford.edu/kundaje/projects/mpra/data/).
-2. Copy three .hdf5 files to *SemanticBI/datasets/Sharpr-MPRA/*. Files' paths are *SemanticBI/datasets/Sharpr-MPRA/test.hdf5*, *SemanticBI/datasets/Sharpr-MPRA/train.hdf5* and *SemanticBI/datasets/Sharpr-MPRA/valid.hdf5*.
-3. Run PBM_66 experiment:
-    ```
-        python SharprMPRA_train.py
-    ```
